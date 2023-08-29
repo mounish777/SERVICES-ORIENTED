@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="xmlstylesheet.xsl"?>
+<users>
+    <user>
+        <name>A</name>
+        <age>8</age>
+        <gender>female</gender>
+        <mail>aaa@gmail.com</mail>
+    </user>
+    <user>
+        <name>B</name>
+        <age>82</age>
+        <gender>male</gender>
+        <mail>bbb@gmail.com</mail>
+        </user>
+        <user>
+            <name>C</name>
+            <age>82</age>
+            <gender>female</gender>
+            <mail>ccc@gmail.com</mail>
+
+        </user>
+        <user>
+            <name>D</name>
+            <age>82</age>
+            <gender>male</gender>
+            <mail>ddd@gmail.com</mail>
+
+        </user>
+        <user>
+            <name>E</name>
+            <age>82</age>
+            <gender>female</gender>
+            <mail>eee@gmail.com</mail>
+
+        </user>
+<user>
+                        <name>F</name>
+                        <age>82</age>
+                        <gender>male</gender>
+                        <mail>fff@gmail.com</mail>
+
+                    </user><user>
+                        <name>G</name>
+                        <age>099</age>
+                        <gender>female</gender>
+                        <mail>ggg@gmail.com</mail>
+
+                    </user></users>
