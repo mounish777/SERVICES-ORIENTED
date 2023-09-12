@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://MOUNISH:8080/calculatorwebservice/calculator" uri="src/conf/xml-resources/web-service-references/calculator/wsdl/MOUNISH_8080/calculatorwebservice/calculator.xml"/>
+    <system systemId="http://localhost:8080/calculatorwebservice/calculator?wsdl" uri="src/conf/xml-resources/web-service-references/calculator_1/wsdl/localhost_8080/calculatorwebservice/calculator.wsdl"/>
+    <system systemId="http://localhost:8080/calculatorwebservice/calculator?xsd=1" uri="src/conf/xml-resources/web-service-references/calculator_1/wsdl/localhost_8080/calculatorwebservice/calculator.xsd_1.xsd"/>
+</catalog>
